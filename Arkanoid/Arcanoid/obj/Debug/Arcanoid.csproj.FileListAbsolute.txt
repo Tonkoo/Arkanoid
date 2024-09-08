@@ -1,0 +1,10 @@
+C:\Users\andre\OneDrive\Документы\хуета\Игруха\Arcanoid\Arcanoid\bin\Debug\Arcanoid.exe.config
+C:\Users\andre\OneDrive\Документы\хуета\Игруха\Arcanoid\Arcanoid\bin\Debug\Arcanoid.exe
+C:\Users\andre\OneDrive\Документы\хуета\Игруха\Arcanoid\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\Users\andre\OneDrive\Документы\хуета\Игруха\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Документы\хуета\Игруха\Arcanoid\Arcanoid\obj\Debug\Arcanoid.Properties.Resources.resources
+C:\Users\andre\OneDrive\Документы\хуета\Игруха\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Документы\хуета\Игруха\Arcanoid\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Документы\хуета\Игруха\Arcanoid\Arcanoid\obj\Debug\Arcanoid.exe
+C:\Users\andre\OneDrive\Документы\хуета\Игруха\Arcanoid\Arcanoid\obj\Debug\Arcanoid.pdb
+C:\Users\andre\OneDrive\Документы\хуета\Игруха\Arcanoid\Arcanoid\obj\Debug\Arcanoid.Arcanoid.resources
